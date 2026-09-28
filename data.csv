@@ -1,0 +1,21 @@
+Order_ID,Customer,Category,Region,Quantity,Discount,Sales,Profit
+ORD001,Customer A,Technology,South,5,0.05,45000,9000
+ORD002,Customer B,Furniture,North,3,0.10,28000,5200
+ORD003,Customer C,Office Supplies,West,8,0.00,12000,3500
+ORD004,Customer D,Technology,East,4,0.08,39000,7800
+ORD005,Customer E,Furniture,South,6,0.12,51000,9200
+ORD006,Customer F,Technology,North,7,0.05,62000,13000
+ORD007,Customer G,Office Supplies,East,10,0.02,18000,5400
+ORD008,Customer H,Furniture,West,5,0.10,42000,7600
+ORD009,Customer I,Technology,South,9,0.07,75000,16500
+ORD010,Customer J,Office Supplies,North,12,0.03,21000,6200
+ORD011,Customer K,Furniture,East,4,0.06,35000,6800
+ORD012,Customer L,Technology,West,6,0.04,58000,12100
+ORD013,Customer M,Office Supplies,South,15,0.05,26000,7100
+ORD014,Customer N,Furniture,North,7,0.09,59000,10800
+ORD015,Customer O,Technology,East,8,0.06,68000,14200
+ORD016,Customer P,Office Supplies,West,11,0.02,19000,5800
+ORD017,Customer Q,Furniture,South,5,0.08,47000,8500
+ORD018,Customer R,Technology,North,10,0.05,82000,18000
+ORD019,Customer S,Office Supplies,East,9,0.04,16000,4500
+ORD020,Customer T,Furniture,West,6,0.07,49000,9100
